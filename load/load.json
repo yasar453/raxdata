@@ -1,0 +1,102 @@
+{
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroAllKafa.png",
+    "name": "heroAllKafa.png",
+    "type": "png"
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroAllKafa.plist",
+    "name": "heroAllKafa.plist",
+    "type": "text"
+  },
+  "3": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroBirBack.png",
+    "name": "heroBirBack.png",
+    "type": "png"
+  },
+  "4": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroBirBack.plist",
+    "name": "heroBirBack.plist",
+    "type": "text"
+  },
+  "5": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroBirHero.png",
+    "name": "heroBirHero.png",
+    "type": "png"
+  },
+  "6": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroBirHero.plist",
+    "name": "heroBirHero.plist",
+    "type": "text"
+  },
+  "7": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFiveBack.png",
+    "name": "heroFiveBack.png",
+    "type": "png"
+  },
+  "8": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFiveBack.plist",
+    "name": "heroFiveBack.plist",
+    "type": "text"
+  },
+  "9": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFourBack.png",
+    "name": "heroFourBack.png",
+    "type": "png"
+  },
+  "10": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFourBack.plist",
+    "name": "heroFourBack.plist",
+    "type": "text"
+  },
+  "11": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFourHero.png",
+    "name": "heroFourHero.png",
+    "type": "png"
+  },
+  "12": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFourHero.plist",
+    "name": "heroFourHero.plist",
+    "type": "text"
+  },
+  "13": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTriBack.png",
+    "name": "heroTriBack.png",
+    "type": "png"
+  },
+  "14": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTriBack.plist",
+    "name": "heroTriBack.plist",
+    "type": "text"
+  },
+  "15": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTriHero.png",
+    "name": "heroTriHero.png",
+    "type": "png"
+  },
+  "16": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTriHero.plist",
+    "name": "heroTriHero.plist",
+    "type": "text"
+  },
+  "17": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTwuBack.png",
+    "name": "heroTwuBack.png",
+    "type": "png"
+  },
+  "18": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTwuBack.plist",
+    "name": "heroTwuBack.plist",
+    "type": "text"
+  },
+  "19": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTwuHero.png",
+    "name": "heroTwuHero.png",
+    "type": "png"
+  },
+  "20": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTwuHero.plist",
+    "name": "heroTwuHero.plist",
+    "type": "text"
+  }
+}

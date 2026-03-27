@@ -1,0 +1,92 @@
+{
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkOkcuAtak_plist.plist",
+    "name": "atkOkcuAtak_plist.plist",
+    "type": "plist",
+    "size": 9750
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkOkcuAtak_png.png",
+    "name": "atkOkcuAtak_png.png",
+    "type": "png",
+    "size":  426733
+  },
+  "3": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkPiyadeAtak_plist.plist",
+    "name": "atkPiyadeAtak_plist.plist",
+    "type": "plist",
+    "size":  9786
+  },
+  "4": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkPiyadeAtak_png.png",
+    "name": "atkPiyadeAtak_png.png",
+    "type": "png",
+    "size": 409015
+  },
+  "5": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkStandOkcu_plist.plist",
+    "name": "atkStandOkcu_plist.plist",
+    "type": "plist",
+    "size":  9768
+  },
+  "6": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkStandOkcu_png.png",
+    "name": "atkStandOkcu_png.png",
+    "type": "png",
+    "size": 519339
+  },
+  "7": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkStandPiyade_plist.plist",
+    "name": "atkStandPiyade_plist.plist",
+    "type": "plist",
+    "size": 9804
+  },
+  "8": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkStandPiyade_png.png",
+    "name": "atkStandPiyade_png.png",
+    "type": "png",
+    "size": 467479
+  },
+  "9": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkSuvariAtak_plist.plist",
+    "name": "atkSuvariAtak_plist.plist",
+    "type": "plist",
+    "size": 9786
+  },
+  "10": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkSuvariAtak_png.png",
+    "name": "atkSuvariAtak_png.png",
+    "type": "png",
+    "size": 360237
+  },
+  "11": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkSuvariStand_plist.plist",
+    "name": "atkSuvariStand_plist.plist",
+    "type": "plist",
+    "size": 9804
+  },
+  "12": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/atkSuvariStand_png.png",
+    "name": "atkSuvariStand_png.png",
+    "type": "png",
+    "size": 544981
+  },
+  "13": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defOkcuAtak_plist.plist",
+    "name": "defOkcuAtak_plist.plist",
+    "type": "plist",
+    "size": 9750
+  },
+  "14": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defOkcuAtak_png.png",
+    "name": "defOkcuAtak_png.png",
+    "type": "png",
+    "size": 563055
+  },
+  "15": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defPiyadeAtak_plist.plist",
+    "name": "defPiyadeAtak_plist.plist",
+    "type": "plist",
+    "size": 9786
+  }
+}

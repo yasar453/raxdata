@@ -1,0 +1,93 @@
+{
+
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defStandPiyade_png.png",
+    "name": "defStandPiyade_png.png",
+    "type": "png",
+    "size":  454021
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defSuvariAtak_plist.plist",
+    "name": "defSuvariAtak_plist.plist",
+    "type": "plist",
+    "size": 9786
+  },
+  "3": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defSuvariAtak_png.png",
+    "name": "defSuvariAtak_png.png",
+    "type": "png",
+    "size": 421266
+  },
+  "4": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defSuvariStand_plist.plist",
+    "name": "defSuvariStand_plist.plist",
+    "type": "plist",
+    "size": 9804
+  },
+  "5": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/defSuvariStand_png.png",
+    "name": "defSuvariStand_png.png",
+    "type": "png",
+    "size":  531671
+  },
+  "6": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/rapAnimScene_plist.plist",
+    "name": "rapAnimScene_plist.plist",
+    "type": "plist",
+    "size": 16077
+  },
+  "7": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/rapAnimScene_png.png",
+    "name": "rapAnimScene_png.png",
+    "type": "png",
+    "size":  241767
+  },
+  "8": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skilArrow_plist.plist",
+    "name": "skilArrow_plist.plist",
+    "type": "plist",
+    "size": 9078
+  },
+  "9": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skilArrow_png.png",
+    "name": "skilArrow_png.png",
+    "type": "png",
+    "size": 1637528
+  },
+  "10": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillAtes_plist.plist",
+    "name": "skillAtes_plist.plist",
+    "type": "plist",
+    "size": 9589
+  },
+  "11": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillAtes_png.png",
+    "name": "skillAtes_png.png",
+    "type": "png",
+    "size": 318413
+  },
+  "12": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBigPatlama_plist.plist",
+    "name": "skillBigPatlama_plist.plist",
+    "type": "plist",
+    "size":  9697
+  },
+  "13": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBlueFlame_plist.plist",
+    "name": "skillBlueFlame_plist.plist",
+    "type": "plist",
+    "size": 9631
+  },
+  "14": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBlueFlame_png.png",
+    "name": "skillBlueFlame_png.png",
+    "type": "png",
+    "size":  208780
+  },
+  "15": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBlueMet_plist.plist",
+    "name": "skillBlueMet_plist.plist",
+    "type": "plist",
+    "size":   9144
+  }
+}

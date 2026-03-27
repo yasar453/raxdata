@@ -1,0 +1,86 @@
+{
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBlueMet_png.png",
+    "name": "skillBlueMet_png.png",
+    "type": "png",
+    "size": 2246454
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillDuzAtk_plist.plist",
+    "name": "skillDuzAtk_plist.plist",
+    "type": "plist",
+    "size": 9641
+  },
+  "3": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillDuzAtk_png.png",
+    "name": "skillDuzAtk_png.png",
+    "type": "png",
+    "size":  163991
+  },
+  "4": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillPatlama_plist.plist",
+    "name": "skillPatlama_plist.plist",
+    "type": "plist",
+    "size":   9659
+  },
+  "5": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillPatlama_png.png",
+    "name": "skillPatlama_png.png",
+    "type": "png",
+    "size": 234068
+  },
+  "6": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillSimsek_plist.plist",
+    "name": "skillSimsek_plist.plist",
+    "type": "plist",
+    "size":  13995
+  },
+  "7": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillSimsek_png.png",
+    "name": "skillSimsek_png.png",
+    "type": "png",
+    "size":  1157397
+  },
+  "8": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillSword_plist.plist",
+    "name": "skillSword_plist.plist",
+    "type": "plist",
+    "size": 9080
+  },
+  "9": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillSword_png.png",
+    "name": "skillSword_png.png",
+    "type": "png",
+    "size": 1616173
+  },
+  "10": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skilMeteorO_plist.plist",
+    "name": "skilMeteorO_plist.plist",
+    "type": "plist",
+    "size":  9097
+  },
+  "11": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skilMeteorO_png.png",
+    "name": "skilMeteorO_png.png",
+    "type": "png",
+    "size":   2013699
+  },
+  "12": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/disyesil.png",
+    "name": "disyesil.png",
+    "type": "png",
+    "size":  1670458
+  },
+  "13": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/u.c3b",
+    "name": "u.c3b",
+    "type": "c3b",
+    "size":  801204
+  },
+  "14": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/raporanim/skillBigPatlama_png.png",
+    "name": "skillBigPatlama_png.png",
+    "type": "png",
+    "size":  381221
+  }
+}
