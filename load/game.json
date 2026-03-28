@@ -3001,6 +3001,11 @@
     "fileName": "playSesModel",
     "localPath": "export.menu.ses.play.playSesModel",
     "class": "ses"
+  },
+  "604": {
+    "fileName": "cityMenager",
+    "localPath": "export.city.cityMenager",
+    "class": "city"
   }
 
 
