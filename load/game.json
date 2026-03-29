@@ -3006,12 +3006,21 @@
     "fileName": "cityMenager",
     "localPath": "export.city.cityMenager",
     "class": "city"
+  },
+  "605": {
+    "fileName": "paraMenagerModel",
+    "localPath": "export.para.paraMenagerModel",
+    "class": "para"
+  },
+  "606": {
+    "fileName": "paraMenager",
+    "localPath": "export.para.paraMenager",
+    "class": "para"
+  },
+  "607": {
+    "fileName": "loadTridHero",
+    "localPath": "export.load.herotrid.loadTridHero",
+    "class": "load"
   }
-
-
-
-
-
-
 }
 
