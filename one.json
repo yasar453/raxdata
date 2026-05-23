@@ -1,0 +1,12 @@
+{
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/chatEmoji.png",
+    "name": "chatEmoji.png",
+    "type": "png"
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/chatEmoji.plist",
+    "name": "chatEmoji.plist",
+    "type": "text"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "1": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/kislaAll.png",
+    "name": "kislaAll.png",
+    "type": "png"
+  },
+  "2": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/kislaAll.plist",
+    "name": "kislaAll.plist",
+    "type": "text"
+  },
+  "3": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/kampdemirci.png",
+    "name": "kampdemirci.png",
+    "type": "png"
+  },
+  "4": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/kampdemirci.plist",
+    "name": "kampdemirci.plist",
+    "type": "text"
+  },
+  "5": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/okcu.png",
+    "name": "okcu.png",
+    "type": "png"
+  },
+  "6": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/okcu.plist",
+    "name": "okcu.plist",
+    "type": "text"
+  },
+  "7": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/piyade.png",
+    "name": "piyade.png",
+    "type": "png"
+  },
+  "8": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/piyade.plist",
+    "name": "piyade.plist",
+    "type": "text"
+  },
+  "9": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/suvari.png",
+    "name": "suvari.png",
+    "type": "png"
+  },
+  "10": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/suvari.plist",
+    "name": "suvari.plist",
+    "type": "text"
+  },
+  "11": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/askerKafa.png",
+    "name": "askerKafa.png",
+    "type": "png"
+  },
+  "12": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/askerKafa.plist",
+    "name": "askerKafa.plist",
+    "type": "text"
+  },
+  "13": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/binalar.png",
+    "name": "binalar.png",
+    "type": "png"
+  },
+  "14": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/binalar.plist",
+    "name": "binalar.plist",
+    "type": "text"
+  }
+}
