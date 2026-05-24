@@ -98,5 +98,15 @@
     "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroTwuHero.plist",
     "name": "heroTwuHero.plist",
     "type": "text"
+  },
+  "21": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFiveHero.plist",
+    "name": "heroFiveHero.plist",
+    "type": "text"
+  },
+  "22": {
+    "path": "https://raw.githubusercontent.com/yasar453/depom/main/hero/heroFiveHero.png",
+    "name": "heroFiveHero.png",
+    "type": "png"
   }
 }
