@@ -1,4 +1,5 @@
 {
+
   "herote": "Ordu",
   "alliance": "İttifak",
   "idkd": "Strateji",
@@ -38,6 +39,7 @@
   "git": "Git",
   "doldur": "Doldur",
   "kptOne": "Kapamak için binanın uzerine dokun.",
+
   "binadetaylar": "Bina Detayları",
   "savasGuc": "Savaş Gücü",
   "uretimOrani":"Saatlik Üretim",
@@ -77,6 +79,7 @@
   "su_tss": "Su",
   "su_tss-infoScene": "Su Değirmeni seviyesini yükseltin",
   "komur_1": "Kömür",
+
   "komur_1-infoScene": "Kömürlük seviyesini yükseltin",
   "demir_1": "Demir",
   "demir_1-infoScene": "Demir Fabrikası seviyesini yükseltin",
@@ -116,6 +119,7 @@
   "hiz-15dk":"15 Dakka Genel Hız",
   "hiz-1h":"1 Saat Genel Hız",
   "hiz-8h":"8 Saat Genel Hız",
+
   "hiz-1d":"1 Gün Genel Hız",
   "hiz-5d":"5 Gün Genel Hız",
   "bina_hiz-1dk":"1 Dakka İnşa Hızı",
@@ -157,6 +161,8 @@
   "bugday-150k": "Buğday 150K",
   "bugday-500k":"Buğday 500K",
   "bugday-1m": "Buğday 1M",
+
+
   "bugday-5m": "Buğday 5M",
   "tas-10k": "Taş 10K",
   "tas-50k": "Taş 50K",
@@ -304,6 +310,7 @@
   "bugday-500k*info": "Sandığı kullandığında 500K Buğday elde edersin.",
   "bugday-1m*info": "Sandığı kullandığında 1M Buğday elde edersin.",
   "bugday-5m*info": "Sandığı kullandığında 5M Buğday elde edersin.",
+
   "tas-10k*info": "Sandığı kullandığında 10K Taş elde edersin.",
   "tas-50k*info": "Sandığı kullandığında 50K Taş elde edersin.",
   "tas-150k*info": "Sandığı kullandığında 150K Taş elde edersin.",
@@ -325,12 +332,13 @@
   "24h-buff_atak*info":"Kullandığında 24 saat saldırı gücün %20 artar",
   "12h-buff_def*info": "Kullandığında 12 saat savunma gücün %20 artar",
   "24h-buff_def*info":"Kullandığında 24 saat savunma gücün %20 artar",
-  "kutu_1_item*info": "Shire Koruma Seti ekipmanlarından kazanma şansın artar.",
-  "kutu_2_item*info": "Orthanc Muhafızları Seti ekipmanlarından kazanma şansın artar.",
-  "kutu_3_item*info": "Rohan Savaşçılarının Seti ekipmanlarından kazanma şansın artar.",
-  "kutu_4_item*info": "Erebor Kalesi Seti ekipmanlarından kazanma şansın artar.",
-  "kutu_5_item*info": "Rivendell Seti ekipmanlarından kazanma şansın artar.",
-  "kutu_6_item*info": "Lothlórien Yıldızı Seti ve ya Moria Gölgeleri Seti ekipmanlarından kazanma şansın artar.",
+
+  "kutu_1_item*info": "Sire Koruma Seti ekipmanlarından kazanma şansın artar.",
+  "kutu_2_item*info": "Kadim Muhafızları Seti ekipmanlarından kazanma şansın artar.",
+  "kutu_3_item*info": "Horan Savaşçılarının Seti ekipmanlarından kazanma şansın artar.",
+  "kutu_4_item*info": "Borre Kalesi Seti ekipmanlarından kazanma şansın artar.",
+  "kutu_5_item*info": "Revenel Seti ekipmanlarından kazanma şansın artar.",
+  "kutu_6_item*info": "Kutup Yıldızı Seti ve ya Zora Gölgeleri Seti ekipmanlarından kazanma şansın artar.",
   "tas_66*info": "Ekipmanın yükseltme şansı %2 artar.",
   "tas_55*info": "Ekipmanın yükseltme şansı %5 artar.",
   "tas_11*info": "Ekipmanın yükseltme şansı %8 artar.",
@@ -377,6 +385,7 @@
   "bosta": "Boşta",
   "hata1": "Kralım! Kaynaklar henüz yüklenmedi.",
   "hata2": "Kralım! Kaynaklar yükleniyor..",
+
   "1": "Aetheron",
   "2": "Faldoriax",
   "3": "Grindelore",
@@ -453,6 +462,8 @@
   "74": "Eldar",
   "76": "Yaso",
   "99": "Norianth",
+
+
   "tecrube": "Tecrübe",
   "hero_exp500":"500 Exp",
   "hero_exp1k":"1000 Exp",
@@ -466,16 +477,16 @@
   "expinfo": "Kahraman deneyimi için canavarları yok edin.Daha fazla deneyim için özel ürünler kullanın!",
   "subayiYukselt": "Subayı Yükselt",
   "herohani": "Kahraman Hanı",
-  "herocagirldi": "Feanor Soyundan bir kahraman kazandı!",
+  "herocagirldi": "Fenor Soyundan bir kahraman kazandı!",
   "ucretsizhero": "Bir defa ücretsiz. ",
   "sonraucretsiz": "sonra ücretsiz.",
   "1xcagir": "1X Çağır",
   "10xcagir": "10X Çağır",
   "tasSayisi": "Tas Sayisi",
   "yesil_cagir*irk": "Turgo Soyu",
-  "mavi*irk": "Noldor Soyu",
-  "red_cagir*irk": "Fingol Soyu",
-  "sari_cagir*irk": "Feanor Soyu",
+  "mavi*irk": "Nodor Soyu",
+  "red_cagir*irk": "Figol Soyu",
+  "sari_cagir*irk": "Fenor Soyu",
   "herovar": "Kahramana zaten sahipsen, arenaya arma olarak eklenecektir.",
   "zindan": "Zindan",
   "arenanFo": "Kahraman Arması altın karşılığında Yıldız Çağrısı ile takas edilebilir.",
@@ -515,6 +526,7 @@
   "red-atak7": "Kaotik Fırtına",
   "mavi-atak1": "Son Saldırı",
   "mavi-atak2": "Keskin Kılıc",
+
   "mavi-savunma1": "Kudret Kalkan",
   "yesil-atak1": "Zaman Mızrağı",
   "gold-nufus1": "Birlik İnşası",
@@ -591,9 +603,9 @@
   "hdyeal": "Hediye Paketi Satın Al",
   "ilerle": "İlerle",
   "yesil*arma": "Turgo Arması",
-  "mavi*arma": "Noldor Arması",
-  "mor*arma": "Fingol Arması",
-  "turuncu*arma": "Feanor Arması",
+  "mavi*arma": "Nodor Arması",
+  "mor*arma": "Figol Arması",
+  "turuncu*arma": "Fenor Arması",
   "taksEt": "Takas Et",
   "secarma": "Seçilen Kahraman Arması ",
   "takasarma": "Elde edilen Kahraman Onuru",
@@ -627,6 +639,7 @@
   "suvari*css": "Süvari",
   "okcu*css": "Okçu",
   "piyade*css": "Piyade",
+
   "suvari1*bmFont": "Zara",
   "suvari2*bmFont": "Mira",
   "suvari3*bmFont": "Tora",
@@ -657,6 +670,7 @@
   "piyade8*bmFont": "Torin",
   "piyade9*bmFont": "Kain",
   "piyade10*bmFont":"Odin",
+
   "yes": "ArastirmaName",
   "attack":"Saldıri",
   "defence": "Savunma",
@@ -708,6 +722,8 @@
   "dunya": "Dünya",
   "saldir": "Saldir",
   "masraf": "Masraf",
+
+
   "ordununAdidegis": "Ordunun Adını Değiştir",
   "degistir": "Değiştir",
   "yeniorduadiyaz": "Ordu adını yaz",
@@ -771,6 +787,7 @@
   "gar4": "Garnizonun seviyesini yükselterek, garnizon puanına sahip olabilirsin.",
   "gar5": "Garnizon puanın arttıkça açılan kaynaklarda kahraman görevlendirebillrsin.",
   "muhafizkarargah": "Muhafız Karargahı",
+
   "muhafizinf": "Muhafız Karargahı her gün yenilenir.O gün içinde orduna katılmak isteyen askerleri gem ile ücretlerini ödeyerek satın al.",
   "gozusername": "Birlikler",
   "kumsaati": "Kalan Zaman",
@@ -816,6 +833,7 @@
   "pi4": "Günlük gelen kaynakları 2 defa yenileyebilirsin.",
   "pi5": "Kartal Pazarında ürünler daha ucuz ve karlıdır.",
   "pi6": "Kartal Pazarında takas için hammadde kullanılır.",
+
   "tav": "Taverna",
   "tavinf1": "Nufusun büyümesi için Buğday ve Suya ihtiyacı vardır.",
   "tavinf2": "Eğer nufusun Su ve Buğday tüketimini taverna karşılayamazsa şehrin nufus oranı düşecektir.",
@@ -868,7 +886,8 @@
   "odundepolama": "Odun Kapasitesi",
   "tasdepolama": "Taş Kapasitesi",
   "sudepolama": "Su Kapasitesi",
-  "heroabil": "Feanor Soyu Şansı",
+  "heroabil": "Fenor Soyu Şansı",
+
   "zindn": "Kahraman Takası",
   "ituyesay": "İttifak Üyesi",
   "merkezbff": "inşaat Hızı",
@@ -907,7 +926,7 @@
   "saldirinf": "Orduların saldırısını arttırmak için inşa edin.",
   "savunma-name": "Rivendell Korunağı",
   "savunmanf": "Orduların savunmasını arttırmak için inşa edin.",
-  "can-name": "Gondor Duvarı",
+  "can-name": "Londor Duvarı",
   "cannf": "Orduların canını arttırmak için inşa edin.",
   "meslek-name": "Soy Salonu",
   "kale-name": "Kale",
@@ -920,6 +939,7 @@
   "hastane-name": "Hastane",
   "hastanenf": "Birlikleri tedavi etmek için inşa edin.",
   "okul-name": "Okul",
+
   "okulnf": "Teknoloji geliştirmek için inşa edin.",
   "belediye-name": "Hazine Hanı",
   "belediyenf": "Şehrinzi yönetmek için inşa edin.",
@@ -1064,6 +1084,7 @@
   "ittakas": "İttifak Puani ile takas et!",
   "takasEt": "Takas Et",
   "tumdiller": "Tüm Diller",
+
   "de": "Deutsch",
   "it": "Italiano",
   "fr": "Français",
@@ -1075,6 +1096,8 @@
   "ar": "العربية",
   "endo": "Bahasa Indonesia",
   "ro": "Română",
+
+
   "itnomsg": "Yöneticiler henüz bir mesaj yayınlamadı!",
   "katil": "Katıl",
   "okit": "Zaten bir ittifaktasın!",
@@ -1153,23 +1176,24 @@
   "depo": "Depo",
   "itset": "Setler",
   "anvil": "Örs",
-  "tt": "Shire Koruma Seti",
-  "tt*info":"Hobbitlerin Sadık Savunması",
-  "rr": "Rohan Savaşçılarının Seti",
+
+  "tt": "Sire Koruma Seti",
+  "tt*info":"Cucelerin Sadık Savunması",
+  "rr": "Horan Savaşçılarının Seti",
   "rr*info": "Alevin Gücü Seninle Olsun!",
-  "gg": "Orthanc Muhafızları Seti",
-  "gg*info": "Saruman'ın İnisiyatifindeki Demir Zırh",
-  "aa": "Erebor Kalesi Seti",
+  "gg": "Kadim Muhafızların Seti",
+  "gg*info": "Büyücü İnisiyatifindeki Demir Zırh",
+  "aa": "Borre Kalesi Seti",
   "aa*info": "Altın Dağlar'ın Gücü Omuzlarında!",
-  "bb": "Rivendell Seti",
+  "bb": "Revenel Seti",
   "bb*info": "Elf Ustalarının Büyülü Yaratımı.",
-  "kk": "Lothlórien Yıldızı Seti",
+  "kk": "Kutup Yıldızı Seti",
   "kk*info": "Doğanın Işığında Güven!",
-  "mm": "Moria Gölgeleri Seti",
+  "mm": "Zora Gölgeleri Seti",
   "mm*info": "Gölgelerin İktidarında Yüksel!",
   "cikart": "Çıkart",
   "upgrade": "Yükselt",
-  "iteminfo1": "Tüm set parçalarını yükselt ve durdurlmaz ol!",
+  "iteminfo1": "Tüm set parçalarını yükselt ve durdurulmaz ol!",
   "iteminfo2": "Bu silah, max seviyeye ulaştı!",
   "slhdetay": "Silah Detayları",
   "item_atk": "Atk",
@@ -1206,6 +1230,7 @@
   "yukok": "Yükseltme tamamlandı, sonucu görmek için devam edin!",
   "itmyandi": "Yükseltme başarısız! Silahınız yok oldu. Başarılı bir yükseltme için daha kaliteli taşlar kullanın ve demirci binasını yükseltin, böylece başarı şansınız daha yüksek olur!",
   "tmm": "Tamam",
+
   "usng": "Bu silah kullanılıyor!",
   "kmpg": "Kampa git ve bu silahı çıkart!",
   "selectItem1": "Miğfer Seç",
@@ -1355,6 +1380,8 @@
   "kkamp15": "Savunma Kırığı",
   "kkamp16": "Çelik Kaslar",
   "kkamp17": "Demir Miğfer II",
+
+
   "kkmp1": "Ordunun yürüyüş hızı artar.",
   "kkmp-sort1": "Yürüyüş Hızı",
   "kkmp2": "Okçuların saldırısı artar.",
@@ -1584,6 +1611,7 @@
   "suvar16-sort": "Süvari",
   "zone1": "Kralın Hazinesi",
   "zone1-alt": "Etkinliklerde fazla puan kazanmak için geliştir.",
+
   "zonee1": "Çelik Balta",
   "zonee2": "Demir Kürek",
   "zonee3": "Gümüş Kazma",
@@ -1927,6 +1955,7 @@
   "ban3": "Lütfen bu süreyi kuralları gözden geçirmek ve daha sağlıklı bir iletişim için değerlendirmeyi unutma.",
   "banSohbet": "İletişim kısıtlandı!",
   "welcomeMsg": "Hoş Geldin Kralım!Macera Başladı!",
+
   "w1": "Merhaba",
   "w2": "Aramıza katıldığın için kocaman bir HOŞ GELDİN!",
   "w3": "Senin gibi cesur ve meraklı bir maceraperest, bu topraklarda her zaman yer bulur.",
@@ -1983,6 +2012,7 @@
   "sari1Kapi": "Altın Kapı",
   "mavi1Kapi": "Safir Kapı",
   "yes1kapi": "Zümrüt Kapı",
+
   "grs": "Giriş",
   "nokap": "Kapı henüz açılmadı!",
   "kp1": "Kapılara yeni bir haritaya geçmek için vardır.",
@@ -2166,6 +2196,7 @@
   "cvr": "Çevir",
   "sns": "Saldırı Şansı",
   "br": "Hedef Birlikler",
+
   "gmCvr": "Gem Kazan",
   "noRekGem": "Zümrüt kazanmak için reklam izle!",
   "noRekHak": "Günlük reklam izleme hakkınız bitmiştir!",
@@ -2299,6 +2330,7 @@
   "tavq2": "Tavernaya yemek doldur.",
   "suvq1": "Süvariler",
   "suvq2": "Süvari kışlası inşaet.",
+
   "har": "Asker Gelişimi",
   "har1": "Harbiye inşaet.",
   "suvu1":"Süvari Üret",
@@ -2341,10 +2373,8 @@
   "kl2": "Kaelith git ve sandık aç.",
   "pzrm1": "Pazar Zamanı",
   "pzrm2": "Pazardam takas yap.",
-
   "ver1": "Yönetim",
   "ver2": "Belediyeden vergi al.",
-
   "exp1": "Kahramanın Gücü",
   "exp2": "5000 deneyim kullan.",
   "zeka1": "Kahramanın Nişanı",
@@ -2388,13 +2418,11 @@
   "go3":"VIP üyeysen, her aşamada ek ödülünü de al.",
   "go4":"Görevler her gün, puanlar ise her ay sıfırlanır.",
   "go5":"Ay bitmeden tüm aşamaları topla, ödülleri kaçırma!",
-  "hrt1": "Haritalar yükleniyor.",
-  "hrt2": "Oyun ilk açıldığında biraz uzun sürer.",
-  "hrt3": "Mabil veri tüketmez.",
   "yklen": "Yüklenen dosyalar",
   "fff": "Kale seviyen en az 3 olmalı.",
   "fff5": "Kale seviyen en az 5 olmalı.",
   "grcok": "Görev Sandığını aç.",
+
   "bbb1": "Bugun balık tutmak için ne güzel bir gün.Balık tutmak için dokun.",
   "bbb2": "Biraz balık tutmak istermisin?.Balık tutmak için dokun.",
   "bbb3": "En büyük balığı henüz yakalayamadım.Balık tutmak için dokun.",
@@ -2440,6 +2468,7 @@
   "ggg39": "Sizden korkmak, sevmekten daha güvenli efendim...",
   "sncu": "Sunucu Saati",
   "mnu": "Menü",
+
   "proficon": "Profil",
   "rank": "Sıralama",
   "bayrakic": "Bayrak",
@@ -2463,7 +2492,6 @@
   "prKd": "Böyle bir kod bulunamadı!",
   "prbg": "Promosyon kodlarını bul ve kullan.Çeşitli nadir ödülleri kazanma şansını yakala.",
   "pryz": "Promosyon kodunu yaz!",
-
   "set1": "Nehir animasyonları",
   "set2": "Ejderha animasyonları",
   "set3": "Şehir içinde yürüyen insanlar.",
@@ -2471,10 +2499,8 @@
   "set5": "Gece Döngüsü",
   "set6": "Ses Efektleri aktif",
   "set7": "Oyun Müziği aktif",
-
   "ef": "Ses Efektleri",
   "ef1": "Oyun Müziği",
-
   "wr1": "Oyun bilgilerinizi mail ve şifre ile hesap oluşturarak güvende tut.Hesap kaybını önlemek için şimdi hemen kayıt ol.",
   "ml1": "Mail",
   "sf1": "Sifre",
@@ -2508,7 +2534,6 @@
   "elfinf": "Düşman daha ne olduğunu anlamadan saf dışı kalsın; mutlak saldırı gücü için Elfleri seç",
   "cuceinf": "Sarsılmaz bir kale gibi dimdik ayakta kal; aşılmaz savunmanın ustası Cüceleri seç.",
   "insaninf": "Savaş meydanında asla pes etme; yüksek canlı ve dayanıklı ordular için İnsanları seç.",
-
   "noUse": "Kullanılacak ürün adeti eksik.",
   "nodeg": "Günlük değişim hakkın kalmadı!",
   "nwPy": "Bu oyuncu henüz çok yeni!.",
@@ -2565,6 +2590,7 @@
   "pr1builder":"Kadim İnşaat Lütfu",
   "pr2builder":"Kraliyet İnşaat Lütfu",
   "sldPr": "Bu ürünü haftada yalnızca 1 kez satın alabilirsin!",
+
   "thx": "Teşşekkür ederiz!",
   "thx2": "Bu yolculukta bizimle olduğunuz ve oyunumuzu desteklediğiniz için teşekkür ederiz. Her satın alımınız, oyunu geliştirmemize ve sizlere daha iyi bir deneyim sunmamıza yardımcı oluyor. Küçük bir teşekkür hediyemizi kabul edin!",
   "stkok": "Satın alım başarılı!Teşekkür ederiz.",
@@ -2581,10 +2607,14 @@
   "gkom": "Komutan",
   "gking": "Kral",
   "dvmet": "Devam Et",
+  "eqx": "Emoji",
+  "nonet1": "İnternet bağlantısı yok.",
+  "nonet2": "Tekrar giriş yapın!",
   "npc1x": "Yıkılan kapıya dokun ve suru tamir et!",
   "npc2x": "Bu harabe artık yeni yurdumuz. Burayı baştan kuracağız.Kapıyı acın.",
   "npc3x": "Kralım!Binayı sürükleyerek yeşil taralı bölgeye konumlandırın.",
   "hata1q": "Şimdi bu işlemi yapamazsın!",
+
   "quideSplash": "Elfler, cüceler ve insanlar... Kadim ittifaklar yıkıldı. Goblinler ve devler krallıkları harabeye çevirdi. Krallığınız da düştü. Felaketin ardından halkınız dağıldı.Gücünüzü yeniden toplamalı ve krallığınızı küllerinden yükseltmelisiniz.Krallığınızı yeniden kurmak ve intikamınızı almak sizin elinizde!",
   "gsahne1": "Kralım, halk bitkin ve aç!Düşman da peşimizde, bu harabe surlar bizi korumaz!",
   "gsahne2": "Merak etme. Önce can güvenliği; surları tamir edin, ardından boş mideleri düşüneceğiz!",
