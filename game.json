@@ -3318,6 +3318,11 @@
     "fileName": "guideEldar",
     "localPath": "export.guide.guidedort.guideEldar",
     "class": "guide"
+  },
+  "667": {
+    "fileName": "cityMenagerCtrl",
+    "localPath": "export.city.share.city.cityMenagerCtrl",
+    "class": "city"
   }
 }
 
